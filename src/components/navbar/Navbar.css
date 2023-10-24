@@ -1,0 +1,18 @@
+:root{
+    --main-color:#CC2a49;
+    --lighter-color:#C8C8A9;
+    --beige:#F9CDAD;
+}
+
+.bg-main-color{
+    background-color: var(--main-color);
+}
+.main-color a{
+    color:white;
+}
+.main-color {
+    color:white;
+}
+.text-color{
+    color: #CC2a49;
+}

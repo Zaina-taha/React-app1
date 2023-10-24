@@ -1,0 +1,16 @@
+:root{
+    --main-color:#CC2a49;
+    --lighter-color:#C6C7aa;
+    --beige:#fff3ed;
+}
+
+.bg-main{
+    background-color: var(--main-color);
+}
+.products{
+    background-color:var(--beige) ;
+    height: 100vh;
+}
+.text-color{
+    color: #CC2a49;
+}
